@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Hidden Places in Berkeley
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Berkeley has so many good places to explore and good resources to offer. For everyone new to here it is worthwhile to spend some time get to know these helpful places.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
